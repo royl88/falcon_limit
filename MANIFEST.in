@@ -1,0 +1,9 @@
+# Include the license file
+include LICENSE
+
+# Include the data files
+include docs/conf.py docs/Makefile
+recursive-include docs *.rst
+include README.md
+include VERSION
+include requirements.txt

@@ -1,0 +1,14 @@
+*.pyc
+*.pyd
+*.so
+.coverage
+.eggs
+.project
+.pydevproject
+.settings/
+.tox/
+.cache/
+unit_test_report.html
+assets/
+falcon_limit.egg-info/
+htmlcov/
